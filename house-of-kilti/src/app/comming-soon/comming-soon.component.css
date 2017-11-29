@@ -7,7 +7,7 @@
 }
 
 #hero .hero-container {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.6);
   display: table-cell;
   margin: 0;
   padding: 10px;
@@ -17,4 +17,6 @@
 
 .text-container{
     text-align: center;
+    color : #fff;
+
 }
